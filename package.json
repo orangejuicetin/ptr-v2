@@ -32,6 +32,7 @@
     "react-typography": "^0.16.19",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
+    "typescript": "^3.9.7",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
@@ -50,7 +51,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop -p 8800",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
