@@ -34,6 +34,7 @@
     "typeface-montserrat": "0.0.75",
     "typescript": "^3.9.7",
     "typography": "^0.16.19",
+    "typography-theme-lincoln": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {

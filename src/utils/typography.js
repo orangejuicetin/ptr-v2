@@ -1,17 +1,22 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import Lincoln from "typography-theme-lincoln"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
+Lincoln.overrideStyles = () => ({
+  a: {
+    textDecoration: "none",
+    transition: "all 0.22s ease-in",
+    color: "#5d8aa8",
+  },
+  "a:hover": {
+    // -moz-transition: all 0.22s ease-in;
+    // -o-transition: all 0.22s ease-in;
+    // -webkit-transition: all 0.22s ease-in;
+    transition: "all 0.22s ease-in",
+    color: "#2e4757",
+  },
+})
 
-delete Wordpress2016.googleFonts
-
-const typography = new Typography(Wordpress2016)
+const typography = new Typography(Lincoln)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
