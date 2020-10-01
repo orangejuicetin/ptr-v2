@@ -1,45 +1,38 @@
 ---
-title: "Percepta Co-founder Philippe Sawaya"
+title: "Getting to Know Percepta Co-founder Philippe Sawaya"
 date: "2020-09-22T15:36:10Z"
-description: "PTR's zoom chat w Lucy Guo: Coder since the second grade but product designer at heart. One of the first female voices at Snap (read: Diversity Champ). Co-founder of Scale.AI, Backend Capital at 1.5x rn, and nonprofit CampaignWith. Shredded Barry's girl— hit her and other VC's up at your local Barry's. Raver. One of the most stacked people you'll ever meet."
+description: "Philippe shares his entrepreneurship journey at Penn and his vision for ethical AI."
 ---
 
-Instead of entering her junior year of college, Guo decided to take the [Thiel Fellowship](https://thielfellowship.org/), which offers 100k to build on an idea for a year, applying with a hackathon project she pieced together in a weekend.
+Closely following the exponential growth of machine learning applications, ethical artificial intelligence policies and studies have become of increasing importance. While mistakes in academic ML range from misclassifying pandas as gibbons or silly typos in NLP strings, biases in industry ML have real and scary implications such as rejecting candidates based on race due to un-normalized training data or targeting in predictive policing. Percepta is an emerging startup aimed to anonymize shoplifting video for analysis. with the goal of building a brand of products that customers will come to value for their emphasis on ethics and reduction of bias.
 
-> PTR: Were you ever fearful of failure or negative results of dropping out?
+We recently got the chance to speak with Philippe Sawaya (SEAS '20), co-founder of Percepta, to discuss his experiences with Penn entrepreneurship, navigating the campus' pre-professional culture, and the trajectory of Percepta since graduation. We hope this discussion can help make entrepreneurship feel like a viable path in school (and beyond!).
 
-> She almost laughs it off.
+While taking EAS 546 together, co-founders Philippe Sawaya and Jonathan Mak wondered if there was a way to remove human error and bias from the equation in public safety. Their idea was to eliminate any indicators of race, gender, age, or size from a standard CCTV feed. Instead they wanted to use wireframe images of individuals to detect unsafe situations.
 
-> Lucy: I've always been somewhat of a rebellious child and I liked to make my parents angry.
+> #### Technical Tips:
 
-In her mind, the worst case scenario would be to go back to CMU if the gap year didn't work out and finish her degree. Taking risks is a fundamental part of Guo's regimen. As a founder of the angel investor fund Backend Capital, Guo is constantly making bets and assessing the risk of her decisions. Even at the start of her career, her tolerance for risk and making those leaps of faith seems to be much higher than your average college student.
+> - CIS 581 and CIS 680 were super helpful in understanding literature and introducing them to the models! (Editor's note: Shoutout to Prof. Jianbo Shi our fave)
+> - Philippe notes that his academic background didn't prepare him for cloud computing techniques or managing costs of training the model
 
-It's difficult and takes mad confidence to know when you know enough and when you should keep learning. Guo epitomizes the self-confidence of a Silicon Valley founder. Insisting that while it is important to be good at something as a student, skills matter less if you're seeking the entrepreneurship route and leadership matters more.
+### On Mentorship
 
-> PTR: How do you balance focusing on entrepreneurship and building your own ideas while also furthering your own technical skills?
+While the idea gained traction in product pitches, Philippe attributes a lot of their initial and continued success to the guidance of their many mentors. The choice to create market segmentation by focusing on loss-prevention for retails stores was thanks to the help of EAS 545 Professor Vanessa Chan. By connecting them with Walmart execs, Sawaya and his team recognized that there was an market opportunity they had not previously considered. Chan continued to offer guidance while living in Hong Kong, staying up until 4am to hop on a call with the founding team. [insert quote here]
 
-> Lucy: It depends a lot on what you want to do. If you want more in depth knowledge or to be an expert in the field (which is great) it's better to do that at a bigger company. But if you want to build or work on product design or grow an idea, then you need to do your own thing.
+As many of his mentors originated at Penn, Percepta's team had to make some adjustments while working remotely and after graduation. Sawaya philosophy is that the mentorship relationship should be very two-way. In order to value their dedicated mentors, Philippe puts in the effort to be very systematic in his communications. Like a standup, Philippe send weekly emails to his mentors outlining progress made, asking for insight, and current challenges his team faces.
 
-Even after only meeting Guo briefly, it is evident that Guo is hyper aware of her strengths and goals. Guo dropped out of CMU and subsequently joining Quora and then Snap as a product designer and recognizes that this was the best path for her. Becoming an "expert in the field" is admirable, but being the smartest person in the room was never an end-goal for Guo. Guo cares more about getting her ideas out into the hands of users and propagating impact.
+### The Future for Percepta
 
-At her level of success, some might wonder what continues to push Lucy Guo to keep hacking on her projects and regularly adding features. Guo has always dreamt of starting her own business, a direct result of her drive to bring her visions to life. Between the rush of creating a product from the ground-up and the moment a user can interact with it, Ms. Guo found her passion in building. That highest level of autonomy is also why she loved working at Snap in the early years - where Evan Spiegel trusted her and gave her freedom as a designer. It's a part of her that has not changed after all she's done.
+With \$77k in investment, Percepta is focusing on getting its product ready for launch for smaller venues like the Penn Bookstore. To keep costs low and to make the customer conversion as simple as possible, Percepta is currently using existing hardware and security feeds.
 
-From her experience, Lucy's system for building, and identifying talented founders, is centered on speed. While she acknowledges that there is a place for great engineering and taking your time to design something, she emphasizes that the necessity of adapting and implementing your vision quickly. Pointing to the Snapchat and Instagram rivalry for the market, Guo believes that vision can easily be copied. Therefore, in order to win you must be able to consistently work quickly when it counts.
+Since June, Percepta has been working within the Pennovation Accelerator, albeit remotely. And while they have not yet connected with the community of other ventures in Philadelphia, Philippe notes that he's grateful for the experience, mentorship, and environment that the Pennovation Center has to offer.
 
-Guo herself tackles building a large project quickly by focusing on a single feature at a time that she personally wants to use. In the context of CampaignWith, Lucy's latest nonprofit platform which allows people to teach online courses to raise donations, that feature was the main landing page. From there, she incrementally releases features and tracks how they gained traction. She notes the importance of making something that people will want to use, to the extent of
+Philippe notes that loss-prevention is not the endgame for Percepta. In the future, he envisions establishing a brand of ethical AI technologies which can be applied to many sectors.
 
-> "If enough people want to use your product enough, it can have a shitty design and they'll still want it."
+### On the Penn experience
 
-Six years later, when the industry and economy looks wildly different, does Guo still recommend this high-risk take to follow your dreams? The answer is a resounding yes. Guo emphasizes that now is the time for students to take risks while they still can, based on COVID's effect on university education as well as the inherent lack of responsibility young people have. Her suggestion is to use the pandemic (if you can) "as an excuse to take a gap year, and to spend it hacking on different projects. If one of those projects gains traction, drop it in as many VC's inboxes as possible." And yes, Lucy cold DM's on LinkedIn, so you should too.
+Beyond the great mentors he's found in the engineering professors at Penn, Sawaya believes that one of the greatest resources for aspiring entrepreneurs is the pitch competitions. He met his cofounder Jonathan Mak through one of his previous ventures in an accelerator on campus. But the main draw of doing these practice pitches isn't the prize money or the network, but the feedback on your ideas and chance to practice your delivery, Sawaya says.
 
-With the overwhelming majority of startups failing, it's hard to imagine that this is a realistic expectation for everyone to follow. But Guo insists that starting a company is not as risky as it seems, for one particular reason: acquisition-hires. These are the safety nets of many charismatic entrepreneurs who have formed a talented team and capital. Guo admits that from the other side of the fence, as an investor, she will often fund teams of talented engineers even if she's not 100% convinced by the idea. If the team is talented and gets enough recognition, they can become hired fairly easily for about the same amount (or slightly less) as the funding they raised. In short, take more "risks" and end up with a worst case scenario of a million dollar comp package served with your big tech offer.
+In a similar vein, Philippe describes the skills taught in EAS 546 to be really fundamental to what he does now. Cold emailing, pitching to investors, and being trained form ideation to implementation were valuable skills he picked up while in class.
 
-When asked what advice she has for what college students should work on, without skipping a beat, Lucy says that if you have an engineering focus/background, look into "dev tools". Customer facing products are rarer in the yc universe, but Lucy thinks there are 3 hot pain points that give for easy success at the moment: curiosity, saving money, and vanity.
-
-> “If your app lets people look attractive, it will blow up.”
-
-Instagram, Facebook, Snapchat has all been about painting a flattering image of oneself and their lifestyle. However pointing to the rise of Tiktok, which she posits as the intersection of vanity and authenticity, "Gen Z is tired of fakeness... TikTok is less fake than instagram". Guo thinks that canonical social media has done more to make people feel isolated and alone than create a sense of community. Effects that we can see during the pandemic. Guo recalls fondly (almost nostalgically) that when she was young, she would play video games and find a sense of community in her digital worlds. She thinks “next big social media” will be built on nurturing groups that fundamentally address loneliness.
-
-Guo's current favorite social media platform and online community however, is Twitter. With a large online following, Guo uses Twitter for the same reason as VCs, academics, and other tech savants: it's a breeding ground of networking and forming ideas for the next big thing. Guo's feed is currently dominated by posts on her new nonprofit baby, CampaignWith which you can check out [here](https://campaignwith.com/). Although Guo didn't expect to do nonprofit work until her thirties, Guo is happy to have found her "next big thing" and looking forward to what's coming next.
-
-For more inspiration and details on who Lucy Guo is and her most up to date projects, check out her profile [here](https://www.lucy.ws/).
+Finally, we asked Philippe on how he handled the external pressures of a Penn community which often puts a tremendous weight on job security than impact. Sawaya admits that he too had plans for a full-time job, pursuing a submatriculate degree, and moving onto a larger tech company. However, he says that the environment around him showed him that route is not necessarily for him. While the future is uncertain and the hours are longer and harder, he and his team are willing to put in the effort to turn Percepta into something and have that sense of impact.
