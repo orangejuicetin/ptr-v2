@@ -1,24 +1,26 @@
 ---
-title: Lucy Guo on Taking Risks: How to Achieve Your Dreams Before Your Thirties
-date: "2020-10-01T15:36:10Z"
-description: PTR's zoom chat w Lucy Guo: Coder since the second grade but product designer at heart. One of the first female voices at Snap (read: Diversity Champ). Co-founder of Scale.AI, Backend Capital at 1.5x rn, and nonprofit CampaignWith. Shredded Barry's girl— hit her and other VC's up at your local Barry's. Raver. One of the most stacked people you'll ever meet..
+title: "Lucy Guo on Taking Risks and Achieving Your Dreams Before Your Thirties"
+date: "2020-08-08T15:36:10Z"
+description: "PTR's zoom chat with Lucy Guo: Co-founder @Scale.AI, @Backend Capital, and nonprofit CampaignWith."
 ---
 
-Instead of entering her junior year of college, Guo decided to take the [Thiel Fellowship](https://thielfellowship.org/), which offers 100k to build on an idea for a year, applying with a hackathon project she pieced together in a weekend.
+### We talked to Lucy about her new nonprofit CampaignWith, her approach to building, and her advice for taking those leaps of faith in the time of COVID.
 
-> PTR: Were you ever fearful of failure or negative results of dropping out?
+Instead of entering her junior year of college, Guo decided to take the [Thiel Fellowship](https://thielfellowship.org/), which offers \$100k to build on an idea for a year, applying with a hackathon project she pieced together in a weekend.
 
-> She almost laughs it off.
+> #### PTR: Were you ever fearful of failure or negative results of dropping out?
 
-> Lucy: I've always been somewhat of a rebellious child and I liked to make my parents angry.
+> #### She almost laughs it off.
 
-In her mind, the worst case scenario would be to go back to CMU if the gap year didn't work out and finish her degree. Taking risks is a fundamental part of Guo's regimen. As a founder of the angel investor fund Backend Capital, Guo is constantly making bets and assessing the risk of her decisions. Even at the start of her career, her tolerance for risk and making those leaps of faith seems to be much higher than your average college student.
+> #### Lucy: I've always been somewhat of a rebellious child and I liked to make my parents angry.
+
+In her mind, the worst case scenario would be to go back to Carnegie Mellon if the gap year didn't work out and finish her degree. Taking risks is a fundamental part of Guo's regimen. As a founder of the angel investor fund Backend Capital, Guo is constantly making bets and assessing the risk of her decisions. Even at the start of her career, her tolerance for risk and making those leaps of faith seems to be much higher than your average college student.
 
 It's difficult and takes mad confidence to know when you know enough and when you should keep learning. Guo epitomizes the self-confidence of a Silicon Valley founder. Insisting that while it is important to be good at something as a student, skills matter less if you're seeking the entrepreneurship route and leadership matters more.
 
-> PTR: How do you balance focusing on entrepreneurship and building your own ideas while also furthering your own technical skills?
+> #### PTR: How do you balance focusing on entrepreneurship and building your own ideas while also furthering your own technical skills?
 
-> Lucy: It depends a lot on what you want to do. If you want more in depth knowledge or to be an expert in the field (which is great) it's better to do that at a bigger company. But if you want to build or work on product design or grow an idea, then you need to do your own thing.
+> #### Lucy: It depends a lot on what you want to do. If you want more in depth knowledge or to be an expert in the field (which is great) it's better to do that at a bigger company. But if you want to build or work on product design or grow an idea, then you need to do your own thing.
 
 Even after only meeting Guo briefly, it is evident that Guo is hyper aware of her strengths and goals. Guo dropped out of CMU and subsequently joining Quora and then Snap as a product designer and recognizes that this was the best path for her. Becoming an "expert in the field" is admirable, but being the smartest person in the room was never an end-goal for Guo. Guo cares more about getting her ideas out into the hands of users and propagating impact.
 
@@ -28,7 +30,7 @@ From her experience, Lucy's system for building, and identifying talented founde
 
 Guo herself tackles building a large project quickly by focusing on a single feature at a time that she personally wants to use. In the context of CampaignWith, Lucy's latest nonprofit platform which allows people to teach online courses to raise donations, that feature was the main landing page. From there, she incrementally releases features and tracks how they gained traction. She notes the importance of making something that people will want to use, to the extent of
 
-> "If enough people want to use your product enough, it can have a shitty design and they'll still want it."
+> #### "If enough people want to use your product enough, it can have a shitty design and they'll still want it."
 
 Six years later, when the industry and economy looks wildly different, does Guo still recommend this high-risk take to follow your dreams? The answer is a resounding yes. Guo emphasizes that now is the time for students to take risks while they still can, based on COVID's effect on university education as well as the inherent lack of responsibility young people have. Her suggestion is to use the pandemic (if you can) "as an excuse to take a gap year, and to spend it hacking on different projects. If one of those projects gains traction, drop it in as many VC's inboxes as possible." And yes, Lucy cold DM's on LinkedIn, so you should too.
 
@@ -36,7 +38,7 @@ With the overwhelming majority of startups failing, it's hard to imagine that th
 
 When asked what advice she has for what college students should work on, without skipping a beat, Lucy says that if you have an engineering focus/background, look into "dev tools". Customer facing products are rarer in the yc universe, but Lucy thinks there are 3 hot pain points that give for easy success at the moment: curiosity, saving money, and vanity.
 
-> “If your app lets people look attractive, it will blow up.”
+> #### “If your app lets people look attractive, it will blow up.”
 
 Instagram, Facebook, Snapchat has all been about painting a flattering image of oneself and their lifestyle. However pointing to the rise of Tiktok, which she posits as the intersection of vanity and authenticity, "Gen Z is tired of fakeness... TikTok is less fake than instagram". Guo thinks that canonical social media has done more to make people feel isolated and alone than create a sense of community. Effects that we can see during the pandemic. Guo recalls fondly (almost nostalgically) that when she was young, she would play video games and find a sense of community in her digital worlds. She thinks “next big social media” will be built on nurturing groups that fundamentally address loneliness.
 
